@@ -87,7 +87,7 @@ Tech: Python • Pandas • NumPy • Matplotlib
 
 ---
 
-> "."
+> "Tech is my backyard."
 
 
 
