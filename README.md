@@ -11,20 +11,6 @@ I'm an inquisitive and creative software developer who loves using code to solve
 
 ---
 
-## 💼 Licenses & Certifications  
-- 🧹 **Data Cleaning** – Kaggle (Jan 2025)  
-- 💡 **Intro to Computer Science** – Emzini WeCode (Aug 2024)  
-- 🧠 **ML Explainability** – Kaggle (Jan 2025)  
-- 🔍 **Pandas** – Kaggle (Jan 2025)  
-- 📊 **BCG Data Science Simulation** – Forage (Jan 2025)  
-- 🔐 **Goldman Sachs Simulation** – Forage (Jan 2025)  
-- 💼 **Scrum Fundamentals Certified** – SCRUMstudy (Dec 2024)  
-- 🧭 **Leadership Principles** – edX (Apr 2022)  
-- 📈 **Zindi Certificate** – Zindi (Jan 2025)  
-- 💻 **ICDL Certified** – (Computer Essentials, Word, Excel, PowerPoint – Nov 2023)
-
----
-
 ## 🛠️ Tech Stack  
 **Languages**  
 Python • JavaScript • Java • HTML • CSS • SQL  
@@ -63,10 +49,6 @@ Tech: Django • TailwindCSS • Django Unfold • MySQL
 
 💬 **Help Desk CLI**  
 Simple Python CLI for task management.  
-
-🧠 **Data Science from Scratch Playground**  
-Inspired by Joel Grus’ book, recreating core DS algorithms from scratch.  
-Tech: Python • Pandas • NumPy • Matplotlib
 
 ---
 
