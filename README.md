@@ -1,91 +1,136 @@
-Divine Saungweme
 
-Software Engineer | AI Engineer
+<div align="center">
 
-I am a Software Engineer with an interest in building reliable software applications, backend systems, and AI-powered solutions. My work combines software development, applied artificial intelligence, and data-driven problem-solving to develop practical solutions for real-world challenges.
+# DIVINE SAUNGWEME
 
-I am particularly interested in backend engineering, intelligent applications, generative AI, and the integration of AI capabilities into modern software systems.
+### Software Engineer | AI Engineer
+
+**Building reliable software applications and practical AI-powered systems.**
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Website-23395B?style=flat-square&logo=vercel&logoColor=white)](https://divinesau.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/divinesau)
+[![Email](https://img.shields.io/badge/Email-Get_in_Touch-555555?style=flat-square&logo=gmail&logoColor=white)](mailto:divinesaung@gmail.com)
+
+</div>
 
 ---
 
-Areas of Focus
+## PROFESSIONAL PROFILE
 
-- Software Engineering: Application development, software architecture, backend engineering, and full-stack development.
-- Artificial Intelligence: Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), AI agents, and intelligent automation.
-- Data and Machine Learning: Data processing, machine learning, natural language processing, and document intelligence.
-- System Integration: REST APIs, third-party services, application integration, and workflow automation.
+I am a Software Engineer with an interest in designing and developing reliable software applications, backend systems, and AI-powered solutions. My work combines software engineering, applied artificial intelligence, and data-driven problem-solving to address practical challenges.
 
-Technical Skills
+My technical interests include backend engineering, software architecture, generative AI, intelligent applications, information retrieval, and the integration of AI capabilities into modern software systems.
 
-Programming Languages
+---
 
-Python · JavaScript · Java · SQL · HTML · CSS
+## TECHNICAL EXPERTISE
 
-Backend and Web Development
+| Category | Technologies |
+|:---|:---|
+| **Programming Languages** | Python, JavaScript, Java, SQL, HTML, CSS |
+| **Backend Development** | FastAPI, Django, REST APIs |
+| **Frontend Development** | React.js, HTML, CSS, JavaScript |
+| **AI & Generative AI** | LLMs, LangChain, LangGraph, OpenAI SDK, RAG, AI Agents |
+| **Machine Learning** | Scikit-learn, NLP, OCR, Model Evaluation |
+| **Data Engineering** | Pandas, NumPy, Data Preprocessing, Feature Engineering |
+| **Databases** | PostgreSQL, MySQL, SQLite, Redis |
+| **AI Search Technologies** | Embeddings, Vector Databases, Semantic Search |
+| **Tools & Infrastructure** | Git, GitHub, Docker, AWS |
 
-FastAPI · Django · React.js · REST APIs
+---
 
+## SELECTED PROJECTS
+
+### 01. AI-Powered Automated News Classification System
+
+An AI-powered application developed with FastAPI to automatically categorise current news content. The system aims to improve information organisation, help readers discover relevant news, and enhance content accessibility.
+
+**Technical Focus:** `Python` `FastAPI` `Artificial Intelligence` `News Classification`
+
+---
+
+### 02. University of Zimbabwe AI Assistant
+
+An AI-powered university information assistant developed using LangChain and web search. It consolidates current information from official and trusted sources, helping students access academic updates and institutional information more efficiently.
+
+**Technical Focus:** `Python` `LangChain` `Generative AI` `Web Search` `Information Retrieval`
+
+---
+
+### 03. AI-Powered WhatsApp Scam Detection
+
+An intelligent application designed to analyse suspicious WhatsApp messages and links, identify potential fraud indicators, and explain associated security risks. The solution focuses on improving fraud awareness and promoting safer digital communication.
+
+**Technical Focus:** `Artificial Intelligence` `Message Analysis` `Fraud Detection` `Cybersecurity`
+
+---
+
+### 04. Ingredient & Allergen Analysis
+
+An AI-powered food-label analysis solution that combines Optical Character Recognition (OCR) and Large Language Models (LLMs) to extract ingredient information and identify potential allergens.
+
+**Technical Focus:** `OCR` `LLMs` `Document Processing` `Information Extraction`
+
+---
+
+## PROFESSIONAL EXPERIENCE
+
+**Software Developer**  
+Wiremybusiness
+
+**AI and Software Engineer**  
+Vectra Dynamics
+
+**Software Developer**  
+Zimbabwe Centre for High Performance Computing (ZCHPC)
+
+---
+
+## AREAS OF INTEREST
+
+- Software Architecture and Application Development
+- Backend Engineering and API Development
+- Generative AI and Large Language Models
+- Retrieval-Augmented Generation (RAG)
+- AI Agents and Intelligent Automation
+- Natural Language Processing and Document Intelligence
+- Machine Learning and Data Processing
+- Software Integration and System Development
+
+---
+
+## EDUCATION
+
+**University of Zimbabwe**  
 Artificial Intelligence and Machine Learning
 
-LLMs · LangChain · LangGraph · OpenAI SDK · RAG · AI Agents · NLP · OCR · Embeddings · Semantic Search · Vector Databases · Scikit-learn
+---
 
-Data and Databases
+## CONNECT
 
-Pandas · NumPy · PostgreSQL · MySQL · SQLite · Redis
+I am interested in collaborating with software engineers, AI practitioners, developers, and organisations working on meaningful technology solutions.
 
-Tools and Infrastructure
+<div align="center">
 
-Git · GitHub · Docker · AWS
+[![Website](https://img.shields.io/badge/WEBSITE-divinesau.vercel.app-23395B?style=flat-square)](https://divinesau.vercel.app)
+
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-Divine_Saungweme-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/divinesau)
+
+[![Email](https://img.shields.io/badge/EMAIL-divinesaung%40gmail.com-555555?style=flat-square&logo=gmail&logoColor=white)](mailto:divinesaung@gmail.com)
+
+</div>
 
 ---
 
-Selected Projects
+<details>
+<summary><strong>More About Me</strong></summary>
 
-AI-Powered Automated News Classification System
+I value thoughtful engineering, continuous learning, practical experimentation, and building maintainable solutions. I am particularly interested in exploring how software engineering and artificial intelligence can work together to solve real-world problems.
 
-An AI-powered application built with FastAPI to automatically classify news content, improve information organisation, and make relevant news easier to discover.
+</details>
 
-Focus: Backend Development · Artificial Intelligence · News Classification
+<div align="center">
 
-University of Zimbabwe AI Assistant
+*Engineering software. Developing intelligent solutions.*
 
-An AI-powered university information assistant that uses LangChain and web search to consolidate information from official and trusted sources, helping students access relevant university updates.
-
-Focus: Generative AI · LangChain · Information Retrieval
-
-AI-Powered WhatsApp Scam Detection
-
-An intelligent solution designed to analyse suspicious WhatsApp messages and links, identify potential fraud indicators, and explain associated security risks.
-
-Focus: AI Applications · Fraud Detection · Cybersecurity
-
-Ingredient and Allergen Analysis
-
-An AI-powered food-label analysis solution combining Optical Character Recognition (OCR) and Large Language Models to extract ingredient information and identify potential allergens.
-
-Focus: OCR · LLMs · Document Processing
-
----
-
-Professional Interests
-
-- Software architecture and scalable application development
-- Backend systems and API engineering
-- Generative AI and LLM-powered applications
-- Retrieval-Augmented Generation and AI agent systems
-- Natural Language Processing and document intelligence
-- Intelligent automation and software integration
-
----
-
-Connect
-
-I am interested in connecting with software engineers, AI practitioners, developers, and organisations working on meaningful technology solutions.
-
-- Portfolio: "divinesau.vercel.app" (https://divinesau.vercel.app)
-- LinkedIn: "linkedin.com/in/divinesau" (https://linkedin.com/in/divinesau)
-- Email: "divinesaung@gmail.com" (mailto:divinesaung@gmail.com)
-
----
-
-Building practical software. Exploring intelligent systems. Solving meaningful problems.
+</div>
