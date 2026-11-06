@@ -1,79 +1,91 @@
-# Hi, I'm Divine 👋  
-Your friendly neighborhood Python Developer!
+Divine Saungweme
 
-🎓 **Artificial Intelligence & Machine Learning Student**  
-📍 University of Zimbabwe | 2023 - Present  
+Software Engineer | AI Engineer
 
----
+I am a Software Engineer with an interest in building reliable software applications, backend systems, and AI-powered solutions. My work combines software development, applied artificial intelligence, and data-driven problem-solving to develop practical solutions for real-world challenges.
 
-## 🧠 About Me  
-I'm an inquisitive and creative software developer who loves using code to solve real-world problems. My passion lies in the intersections of **Data Science**, **Machine Learning**, and **Web Development**. I also enjoy watching movies, making music and hanging out with friends.
+I am particularly interested in backend engineering, intelligent applications, generative AI, and the integration of AI capabilities into modern software systems.
 
 ---
 
-## 🛠️ Tech Stack  
-**Languages**  
-Python • JavaScript • Java • HTML • CSS • SQL  
+Areas of Focus
 
-**Frameworks & Libraries**  
-Django • FastAPI • Langchain • LangGraph • Bootstrap • TailwindCSS • DRF • Scikit-learn • Pandas • NumPy • Matplotlib • Seaborn • SpaCy  
+- Software Engineering: Application development, software architecture, backend engineering, and full-stack development.
+- Artificial Intelligence: Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), AI agents, and intelligent automation.
+- Data and Machine Learning: Data processing, machine learning, natural language processing, and document intelligence.
+- System Integration: REST APIs, third-party services, application integration, and workflow automation.
 
-**Databases**  
-MySQL • SQLite  
+Technical Skills
 
-**Tools & Platforms**  
-Streamlit • WordPress • Git • ICDL Office Suite • Google Gemini • Tavily API
+Programming Languages
 
----
+Python · JavaScript · Java · SQL · HTML · CSS
 
-## 🚀 Projects  
-🎯 **Fine Print Analysis Bot**  
-AI tool that parses and highlights critical parts of website terms and conditions.  
-Tech: Langchain • LangGraph • Google Gemini
+Backend and Web Development
 
-🎓 **UZ Info Bot**  
-AI chatbot for all things University of Zimbabwe.  
-Tech: Langchain • LangGraph • Google Gemini • Tavily API • Streamlit
+FastAPI · Django · React.js · REST APIs
 
-✍️ **Divine's Blog Companion**  
-AI blogging partner that mimics and critiques my writing style.  
-Tech: Langchain • Gemini • Streamlit
+Artificial Intelligence and Machine Learning
 
-🧁 **Muffin vs Cupcake**  
-ML app that classifies recipes.  
-Tech: Django • DRF • FastAPI • Pandas • Scikit-learn  
+LLMs · LangChain · LangGraph · OpenAI SDK · RAG · AI Agents · NLP · OCR · Embeddings · Semantic Search · Vector Databases · Scikit-learn
 
-🩸 **Blood Donation System**  
-Django-powered platform for managing blood donor and recipient data.  
-Tech: Django • TailwindCSS • Django Unfold • MySQL
+Data and Databases
 
-💬 **Help Desk CLI**  
-Simple Python CLI for task management.  
+Pandas · NumPy · PostgreSQL · MySQL · SQLite · Redis
+
+Tools and Infrastructure
+
+Git · GitHub · Docker · AWS
 
 ---
 
-## ⚔️ Hackathon Adventures  
-- 💰 **Tunisian Fraud Detection Challenge** – Zindi  
-- 🌍 **Economic Well-Being Prediction** – Zindi  
-- 🪙 **Cryptocurrency Price Prediction** – Zindi  
-- 🧾 **Insurance Prediction Challenge** – Zindi  
+Selected Projects
+
+AI-Powered Automated News Classification System
+
+An AI-powered application built with FastAPI to automatically classify news content, improve information organisation, and make relevant news easier to discover.
+
+Focus: Backend Development · Artificial Intelligence · News Classification
+
+University of Zimbabwe AI Assistant
+
+An AI-powered university information assistant that uses LangChain and web search to consolidate information from official and trusted sources, helping students access relevant university updates.
+
+Focus: Generative AI · LangChain · Information Retrieval
+
+AI-Powered WhatsApp Scam Detection
+
+An intelligent solution designed to analyse suspicious WhatsApp messages and links, identify potential fraud indicators, and explain associated security risks.
+
+Focus: AI Applications · Fraud Detection · Cybersecurity
+
+Ingredient and Allergen Analysis
+
+An AI-powered food-label analysis solution combining Optical Character Recognition (OCR) and Large Language Models to extract ingredient information and identify potential allergens.
+
+Focus: OCR · LLMs · Document Processing
 
 ---
 
-## 🤝 Let's Connect  
-📬 Email: [divinesaun@gmail.com](mailto:divinesaun@gmail.com)  
-🔗 LinkedIn: [Divine Saungweme](https://www.linkedin.com/in/divinesau)  
-📢 Hashnode: [divinesaung](https://divinesaung.hashnode.dev/)
-🌐 Portfolio: [Divine Saungweme](https://divinesau.vercel.app/) 
-🐦 Twitter: [@divinesau](https://x.com/divinesau)  
+Professional Interests
+
+- Software architecture and scalable application development
+- Backend systems and API engineering
+- Generative AI and LLM-powered applications
+- Retrieval-Augmented Generation and AI agent systems
+- Natural Language Processing and document intelligence
+- Intelligent automation and software integration
 
 ---
 
-> "Tech is my backyard."
+Connect
 
+I am interested in connecting with software engineers, AI practitioners, developers, and organisations working on meaningful technology solutions.
 
+- Portfolio: "divinesau.vercel.app" (https://divinesau.vercel.app)
+- LinkedIn: "linkedin.com/in/divinesau" (https://linkedin.com/in/divinesau)
+- Email: "divinesaung@gmail.com" (mailto:divinesaung@gmail.com)
 
-<!---
-divinesaun/divinesaun is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+Building practical software. Exploring intelligent systems. Solving meaningful problems.
