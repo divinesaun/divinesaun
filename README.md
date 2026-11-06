@@ -76,7 +76,7 @@ An AI-powered food-label analysis solution that combines Optical Character Recog
 ## PROFESSIONAL EXPERIENCE
 
 **Software Developer**  
-Wiremybusiness
+RedSkies
 
 **AI and Software Engineer**  
 Vectra Dynamics
