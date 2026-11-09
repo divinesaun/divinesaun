@@ -7,7 +7,7 @@
 
 **Building reliable software applications and practical AI-powered systems.**
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Website-23395B?style=flat-square&logo=vercel&logoColor=white)](https://divinesau.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Website-23395B?style=flat-square&logo=vercel&logoColor=white)](https://divine.is-a.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/divinesau)
 [![Email](https://img.shields.io/badge/Email-Get_in_Touch-555555?style=flat-square&logo=gmail&logoColor=white)](mailto:divinesaung@gmail.com)
 
@@ -112,7 +112,7 @@ I am interested in collaborating with software engineers, AI practitioners, deve
 
 <div align="center">
 
-[![Website](https://img.shields.io/badge/WEBSITE-divinesau.vercel.app-23395B?style=flat-square)](https://divinesau.vercel.app)
+[![Website](https://img.shields.io/badge/WEBSITE-divine.is–a.dev-23395B?style=flat-square)](https://divine.is-a.dev)
 
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-Divine_Saungweme-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/divinesau)
 
