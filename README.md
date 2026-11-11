@@ -99,13 +99,6 @@ Zimbabwe Centre for High Performance Computing (ZCHPC)
 
 ---
 
-## EDUCATION
-
-**University of Zimbabwe**  
-Artificial Intelligence and Machine Learning
-
----
-
 ## CONNECT
 
 I am interested in collaborating with software engineers, AI practitioners, developers, and organisations working on meaningful technology solutions.
